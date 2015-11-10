@@ -4,6 +4,6 @@ sharpie bind \
         -xcodeproj-target CrashReporter-iOS \
         -xcodeproj-config Release \
         -o . \
-        -n PLCrashReporter \
+        -n CrashReporter \
         -c
           -Ibuild
